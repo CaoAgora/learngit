@@ -1,5 +1,12 @@
-Git is a version control system.
-Git is free software.
-cjy
+git init 
+git add  file
+git commit -m ""
+git log
+git reset --hard id
+git reflog
+git status
+git diff HEAD -- file
+git checkout -- file
 123
-456
+231
+123
