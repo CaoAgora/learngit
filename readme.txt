@@ -7,6 +7,3 @@ git reflog
 git status
 git diff HEAD -- file
 git checkout -- file
-123
-231
-123
